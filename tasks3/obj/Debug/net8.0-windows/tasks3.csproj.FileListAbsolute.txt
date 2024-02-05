@@ -1,0 +1,16 @@
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\CarManagementApp.Form1.resources
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\tasks3.csproj.GenerateResource.cache
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\tasks3.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\tasks3.AssemblyInfoInputs.cache
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\tasks3.AssemblyInfo.cs
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\tasks3.csproj.CoreCompileInputs.cache
+E:\DEV 1\Projects\tasks3\tasks3\bin\Debug\net8.0-windows\tasks3.exe
+E:\DEV 1\Projects\tasks3\tasks3\bin\Debug\net8.0-windows\tasks3.deps.json
+E:\DEV 1\Projects\tasks3\tasks3\bin\Debug\net8.0-windows\tasks3.runtimeconfig.json
+E:\DEV 1\Projects\tasks3\tasks3\bin\Debug\net8.0-windows\tasks3.dll
+E:\DEV 1\Projects\tasks3\tasks3\bin\Debug\net8.0-windows\tasks3.pdb
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\tasks3.dll
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\refint\tasks3.dll
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\tasks3.pdb
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\tasks3.genruntimeconfig.cache
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\ref\tasks3.dll

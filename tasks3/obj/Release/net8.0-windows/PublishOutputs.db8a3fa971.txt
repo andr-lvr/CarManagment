@@ -1,0 +1,5 @@
+E:\DEV 1\Projects\tasks3\tasks3\bin\Release\net8.0-windows\publish\CarManagment.exe
+E:\DEV 1\Projects\tasks3\tasks3\bin\Release\net8.0-windows\publish\CarManagment.dll
+E:\DEV 1\Projects\tasks3\tasks3\bin\Release\net8.0-windows\publish\CarManagment.deps.json
+E:\DEV 1\Projects\tasks3\tasks3\bin\Release\net8.0-windows\publish\CarManagment.runtimeconfig.json
+E:\DEV 1\Projects\tasks3\tasks3\bin\Release\net8.0-windows\publish\CarManagment.pdb

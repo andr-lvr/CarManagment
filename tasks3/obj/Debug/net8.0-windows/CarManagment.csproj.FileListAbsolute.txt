@@ -1,0 +1,16 @@
+E:\DEV 1\Projects\tasks3\tasks3\bin\Debug\net8.0-windows\CarManagment.exe
+E:\DEV 1\Projects\tasks3\tasks3\bin\Debug\net8.0-windows\CarManagment.deps.json
+E:\DEV 1\Projects\tasks3\tasks3\bin\Debug\net8.0-windows\CarManagment.runtimeconfig.json
+E:\DEV 1\Projects\tasks3\tasks3\bin\Debug\net8.0-windows\CarManagment.dll
+E:\DEV 1\Projects\tasks3\tasks3\bin\Debug\net8.0-windows\CarManagment.pdb
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\CarManagementApp.Form1.resources
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\CarManagment.csproj.GenerateResource.cache
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\CarManagment.GeneratedMSBuildEditorConfig.editorconfig
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\CarManagment.AssemblyInfoInputs.cache
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\CarManagment.AssemblyInfo.cs
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\CarManagment.csproj.CoreCompileInputs.cache
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\CarManagment.dll
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\refint\CarManagment.dll
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\CarManagment.pdb
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\CarManagment.genruntimeconfig.cache
+E:\DEV 1\Projects\tasks3\tasks3\obj\Debug\net8.0-windows\ref\CarManagment.dll
